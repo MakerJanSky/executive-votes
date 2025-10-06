@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Launch Lockstake Capped OSM Wrapper, SKY Token Rewards Rebalance, Whitelist Keel ALM Proxy, Execute Prime Agent Proxy Spells - October 6, 2025
 summary: Launch Lockstake Capped Oracle Security Module for SKY, normalize SKY Token Rewards, whitelist Keel ALM Proxy on the LitePSM, execute Proxy Spells for Spark, Grove, and Keel Prime Agents. 
 date: 2025-10-06T00:00:00.000Z
-address: "$spell_address"
+address: "0x0727FFA3221a8D3cDaAaBc7d19Ed0583847496e1"
 ---
 
 # [Executive Proposal] Launch Lockstake Capped OSM Wrapper, SKY Token Rewards Rebalance, Whitelist Keel ALM Proxy, Execute Prime Agent Proxy Spells - October 6, 2025
