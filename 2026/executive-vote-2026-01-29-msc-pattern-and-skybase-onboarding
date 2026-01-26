@@ -36,12 +36,31 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### $executive_entry_1
+### Monthly Settlement Cycle and Treasury Management Function for November and December
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [A.2.4 - Sky Core Monthly Settlement Cycle](https://sky-atlas.io/#A.2.4), [A.2.3 - Treasury Management](https://sky-atlas.io/#A.2.3)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/msc-4-settlement-summary-november-and-december-2025-spark-grove/27617/5)
 
-If this executive proposal passes, then $executive_entry_1_implications.
+If this executive proposal passes, then If this executive proposal passes, then the November and December 2025 Monthly Settlement Cycles will be executed by taking the following steps.
+
+#### Spark
+
+- Mint **25,547,255 USDS** debt in ALLOCATOR-SPARK-A and transfer the amount to the Surplus Buffer.
+- Transfer **7,071,339 USDS** from the surplus buffer to the SPARK_SUBPROXY located at [0x3300f198988e4C9C63F75dF86De36421f06af8c4](https://etherscan.io/address/0x3300f198988e4C9C63F75dF86De36421f06af8c4).
+
+#### Grove
+
+- Mint **14,311,822 USDS** debt in ALLOCATOR-BLOOM-A and transfer the amount to the Surplus Buffer.
+
+#### Obex
+
+- Mint **1,768,819 USDS** debt in ALLOCATOR-OBEX-A and transfer the amount to the Surplus Buffer.
+- Transfer **442,327 USDS** from the Surplus Buffer to the OBEX_SUBPROXY located at [0x8be042581f581E3620e29F213EA8b94afA1C8071](https://etherscan.io/address/0x8be042581f581e3620e29f213ea8b94afa1c8071).
+
+#### Treasury Management Function
+
+- Transfer **6,632,421 USDS** from the Surplus Buffer to the Core Council Buffer located at [0x210CFcF53d1f9648C1c4dcaEE677f0Cb06914364](https://etherscan.io/address/0x210CFcF53d1f9648C1c4dcaEE677f0Cb06914364).
+- Transfer **331,620 USDS** from the Surplus Buffer to the Aligned Delegates Buffer located at [0x37FC5d447c8c54326C62b697f674c93eaD2A93A3](https://etherscan.io/address/0x37FC5d447c8c54326C62b697f674c93eaD2A93A3).
 
 ### $executive_entry_2
 
@@ -56,6 +75,13 @@ If this executive proposal passes, then $executive_entry_2_implications.
 - **Proposal**: [$link_to_proposal]()
 
 If this executive proposal passes, then $executive_entry_3_implications.
+
+### DAO Resolution for 6s Capital (RWA001-A)
+
+- **Authorization**: [Core Facilitator Approval](https://forum.sky.money/t/rwa-001-6s-capital-update-and-stability-fee-proposal/24624/5)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/rwa-001-6s-capital-update-and-stability-fee-proposal/24624/4)
+
+If this executive proposal passes, then a DAO Resolution with IPFS hash [bafkreiczdjq55zsxvxcf4le3oaqvhp4jgvls4n4b7xbnzvkwilzen3a2te](https://gateway.pinata.cloud/ipfs/bafkreiczdjq55zsxvxcf4le3oaqvhp4jgvls4n4b7xbnzvkwilzen3a2te) will be approved. This DAO Resolution authorizes the return of the full balance of funds held in the Trust.
 
 ## Review
 
