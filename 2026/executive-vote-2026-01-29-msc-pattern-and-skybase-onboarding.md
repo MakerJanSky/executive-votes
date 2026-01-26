@@ -146,6 +146,106 @@ The following transfers will be made as part of Skybase's Gensis funding:
 
 If this executive proposal passes, then a DAO Resolution with IPFS hash [bafkreiczdjq55zsxvxcf4le3oaqvhp4jgvls4n4b7xbnzvkwilzen3a2te](https://gateway.pinata.cloud/ipfs/bafkreiczdjq55zsxvxcf4le3oaqvhp4jgvls4n4b7xbnzvkwilzen3a2te) will be approved. This DAO Resolution authorizes the return of the full balance of funds held in the Trust.
 
+### Star Agent Proxy Spells
+
+If this executive proposal passes, then a Spark proxy spell at [0xa091BeD493C27efaa4D6e06e32684eCa0325adcA](https://etherscan.io/address/0xa091BeD493C27efaa4D6e06e32684eCa0325adcA) with the codehash `0x6ef4bf2258afab1e1c857892e5253e95880230a86ee9adc773fab559d7a594ec` will be whitelisted in the [Spark StarGuard](https://etherscan.io/address/0x6605aa120fe8b656482903E7757BaBF56947E45E).
+
+If this executive proposal passes, then a Grove proxy spell at [0x67aB5b15E3907E3631a303c50060c2207465a9AD](https://etherscan.io/address/0x67aB5b15E3907E3631a303c50060c2207465a9AD) with the codehash `0x7e4eb1e46f50b347fc7c8d20face6070c8fda4876049e32f3877a89cede1d533` iwill be whitelisted in the [Grove StarGuard](https://etherscan.io/address/0xfc51CAa049E8894bEcFfB68c61095C3F3Ec8a880).
+
+#### Spark Proxy Spell
+
+##### [Gnosis] Deprecate SparkLend Phase 1
+
+- **Authorization**: [A.6.1.1.1.3.2.1.2.1 - SparkLend Risk Parameters Modification](https://sky-atlas.io/#A.6.1.1.1.3.2.1.2.1)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes/27620)
+
+##### [Ethereum] SparkLend - Deprecate tBTC Phase 1
+
+- **Authorization**: [A.6.1.1.1.3.2.1.2.1 - SparkLend Risk Parameters Modification](https://sky-atlas.io/#A.6.1.1.1.3.2.1.2.1)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes/27620)
+
+##### [Ethereum] SparkLend - Deprecate ezETH Phase 1
+
+- **Authorization**: [A.6.1.1.1.3.2.1.2.1 - SparkLend Risk Parameters Modification](https://sky-atlas.io/#A.6.1.1.1.3.2.1.2.1)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes/27620)
+
+##### [Ethereum] SparkLend - Deprecate rsETH Phase 1
+
+- **Authorization**: [A.6.1.1.1.3.2.1.2.1 - SparkLend Risk Parameters Modification](https://sky-atlas.io/#A.6.1.1.1.3.2.1.2.1)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes/27620)
+
+##### [Ethereum] SLL - Upgrade ALM Controller
+
+- **Authorization**: [Snapshot Poll](https://snapshot.org/#/s:sparkfi.eth/proposal/0x7888032804772315db4be8e2d0c59ec50c70fbc0d4e7c5bab0af0a4b7391070e)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes/27620)
+
+##### [Ethereum] SLL - Onboard Uniswap v4 PYUSD/USDS
+
+- **Authorization**: [Snapshot Poll](https://snapshot.org/#/s:sparkfi.eth/proposal/0x7888032804772315db4be8e2d0c59ec50c70fbc0d4e7c5bab0af0a4b7391070e)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes/27620)
+
+##### [Ethereum] SLL - Onboard Uniswap v4 USDT/USDS
+
+- **Authorization**: [Snapshot Poll](https://snapshot.org/#/s:sparkfi.eth/proposal/0x7888032804772315db4be8e2d0c59ec50c70fbc0d4e7c5bab0af0a4b7391070e)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes/27620)
+
+##### [Ethereum] Spark Savings - Increase spUSDT Supply Cap
+
+- **Authorization**: [Snapshot Poll](https://snapshot.org/#/s:sparkfi.eth/proposal/0x64bd800579115f0a11a1290af898bdbe587947cd483afab3998b8454e3a4fb2d)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes/27620)
+
+##### [Ethereum] SparkLend - Claim Accumulated Reserves
+
+- **Authorization**: [Snapshot Poll](https://snapshot.org/#/s:sparkfi.eth/proposal/0xa1b2e3a136cca3a6df5498a074aeecad8bee871866726b7568b19c087ff33178)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes/27620)
+
+##### [Ethereum] Spark Treasury - Spark Foundation Grant
+
+- **Authorization**: [A.2.8.2.2.2.5.5.2 - Spark Foundation Grant Authorization: December 2025](https://sky-atlas.io/#A.2.8.2.2.2.5.5.2)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes/27620)
+
+#### Grove Proxy Spell
+
+##### [Mainnet] Re-Onboard Agora AUSD Mint Redeem
+
+- **Authorization**: [$TBD]($TBD)
+- **Proposal**: [[Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes-to-grove-for-upcoming-spell/27608)
+
+##### [Mainnet] Onboard Curve AUSD/USDC Swaps & LP
+
+**- **Authorization**: [$TBD]($TBD)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes-to-grove-for-upcoming-spell/27608)
+
+##### [Mainnet] Onboard Uniswap v3 AUSD/USDC Swaps & LP
+
+- **Authorization**: [$TBD]($TBD)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes-to-grove-for-upcoming-spell/27608)
+
+##### [Mainnet] Onboard Curve PYUSD/USDS Swaps
+
+- **Authorization**: [$TBD]($TBD)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes-to-grove-for-upcoming-spell/27608)
+
+##### [Mainnet] Onboard Grove x Steakhouse USDC Morpho Vault
+
+- **Authorization**: [$TBD]($TBD)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes-to-grove-for-upcoming-spell/27608)
+
+##### [Mainnet] Onboard Steakhouse PYUSD Morpho Vault
+
+- **Authorization**: [$TBD]($TBD)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes-to-grove-for-upcoming-spell/27608)
+
+##### [Mainnet] Onboard Relayers for Grove Liquidity Layer
+
+- **Authorization**: [$TBD]($TBD)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/january-29-2026-proposed-changes-to-grove-for-upcoming-spell/27608)
+
+##### [Mainnet] Transfer 2.5 billion GROVE tokens to Grove Labs
+
+- **Authorization**: [A.6.1.1.2.2.1.4.2.1.2.4 - Transfer Of Tokens To Grove Labs](https://sky-atlas.io/#A.6.1.1.2.2.1.4.2.1.2.4)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-01-19/27627)
+
 ## Review
 
 Community debate on these topics can be found on the Sky [Governance forum](https://forum.sky.money/). Please review any linked threads to inform your position before voting.
